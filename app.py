@@ -227,7 +227,7 @@ resultados = ejecutar_simulacion(
 
 
 # Mostrar titulo principal de la aplicacion
-st.title("Simulación Monte Carlo Actuarial")
+st.title("Simulación Monte Carlo de Asaf Cruz")
 
 # Mostrar descripcion breve de la aplicacion
 st.write(
