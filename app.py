@@ -11,7 +11,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 
 # Configurar la pagina principal de Streamlit
 st.set_page_config(
-    page_title="Simulación Monte Carlo Actuarial",
+    page_title="Simulación Monte Carlo de Asaf Cruz",
     layout="wide"
 )
 
